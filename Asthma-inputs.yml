@@ -1,0 +1,33 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-i2b2.js
+inputModule2:
+  class: File
+  path: python/asthma-p1---primary.py
+inputModule3:
+  class: File
+  path: python/asthma-p1-attack---primary.py
+inputModule4:
+  class: File
+  path: python/extrinsic-asthma-p1---primary.py
+inputModule5:
+  class: File
+  path: python/asthma-p1-fever---primary.py
+inputModule6:
+  class: File
+  path: python/asthma-p1-resolved---primary.py
+inputModule7:
+  class: File
+  path: python/intrinsic-asthma-p1---primary.py
+inputModule8:
+  class: File
+  path: python/asthma---primary.py
+inputModule9:
+  class: File
+  path: python/allergic-asthma-p1---primary.py
+inputModule10:
+  class: File
+  path: python/asthma-p1-bronchitis---primary.py
+inputModule11:
+  class: File
+  path: python/output-cases.py
